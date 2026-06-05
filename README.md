@@ -23,8 +23,6 @@ The system measures the distance between the sensor and water surface, calculate
 | HC-SR04 Ultrasonic Sensor | 1 |
 | 0.96" OLED Display (I2C SSD1306) | 1 |
 | Jumper Wires | Few |
-| Breadboard for testing| 1 |
-| USB Cable | 1 |
 
 ---
 
