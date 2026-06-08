@@ -1,7 +1,5 @@
 #  Water Level Monitoring System
-
-A simple and efficient **Water Level Measuring System** built using an **Arduino Uno R3**, **HC-SR04 Ultrasonic Sensor**, and **OLED Display**.  
-The system measures the distance between the sensor and water surface, calculates the water level, and displays the information in real time.
+This project is a neat, automated way to keep tabs on your water levels. It uses an ultrasonic sensor to 'see' where the water is, an Arduino to calculate the depth, and an OLED display to show you the exact water level the second it changes
 <img width="2752" height="1536" alt="imagees" src="https://github.com/user-attachments/assets/87d7f248-6d19-44b9-a3a7-efd39a458df8" />
 ---
 # Components Used
