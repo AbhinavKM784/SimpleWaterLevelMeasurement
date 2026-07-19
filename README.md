@@ -1,6 +1,7 @@
 #  Water Level Monitoring System
 This project is a neat, automated way to keep tabs on your water levels. It uses an ultrasonic sensor to 'see' where the water is, an Arduino to calculate the depth, and an OLED display to show you the exact water level the second it changes
-<img width="2752" height="1536" alt="imagees" src="https://github.com/user-attachments/assets/87d7f248-6d19-44b9-a3a7-efd39a458df8" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/0f7b64a9-9893-4bc5-a454-fcb0716930eb" />
+
 ---
 # Components Used
 
@@ -36,3 +37,5 @@ Booting process
 
 https://github.com/user-attachments/assets/d72b4f6a-3e16-4e79-9ae6-1df065d3e32d
 
+-------------DEMO-----------
+https://www.youtube.com/shorts/cfFFyI_C2ac
